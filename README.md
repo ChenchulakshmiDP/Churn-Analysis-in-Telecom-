@@ -12,6 +12,7 @@ Clone the repository:
 bash
 
 git clone https://github.com/YourUsername/Telecom-Churn-Analysis.git
+
 Open churn_analysis.ipynb and run it in Jupyter Notebook.
 Open churn_dashboard.pbix in Power BI to explore insights.
 🔹 Future Improvements
