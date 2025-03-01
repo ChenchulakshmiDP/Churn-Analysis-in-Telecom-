@@ -22,13 +22,19 @@ https://github.com/ChenchulakshmiDP/Churn-Analysis-in-Telecom-
 
 Open churn_analysis.ipynb and run it in Jupyter Notebook.
 
-Open churn_dashboard.pbix in Power BI to explore insights.
+Open churn_dashboard.pbix in Power BI to explore insight
+
+
+
+<!-- Failed to upload "1740799796802.jpg" -->
+
 
 🔹 Future Improvements
 
 Improve the accuracy of ML models by tuning hyperparameters.
 
 Add customer segmentation for better targeting strategies.
+
 
 🔗 GitHub Repository: Churn-Analysis-in-Telecom-
 
