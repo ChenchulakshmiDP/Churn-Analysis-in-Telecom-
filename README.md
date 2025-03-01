@@ -24,9 +24,9 @@ Open churn_analysis.ipynb and run it in Jupyter Notebook.
 
 Open churn_dashboard.pbix in Power BI to explore insight
 
+![Image](https://github.com/user-attachments/assets/e18f8529-b35f-46d2-b9b6-962c345b025a)
 
 
-<!-- Failed to upload "1740799796802.jpg" -->
 
 
 🔹 Future Improvements
